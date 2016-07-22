@@ -1,4 +1,4 @@
-package com.lorrowin.niabowpia;
+package com.lorrowin.niabowpia.CommonProxy;
 
 import com.lorrowin.niabowpia.world.OpalWorldGenerator;
 
